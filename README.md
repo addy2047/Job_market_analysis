@@ -73,7 +73,7 @@ It reflects practical, real-world skills expected from a data analyst working wi
 
 ## 👤 Author
 
-**Akshar Panchal**  
+**ADITYA HINGRAJIYA**  
 Data Analyst | Business Analytics Enthusiast| Experianced Software Quality Analyst | ERP Domain Specialist  
 
 ERP-focused professional skilled in Quality analysis, quality validation, and business insights.
